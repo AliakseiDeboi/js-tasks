@@ -1,2 +1,2 @@
 # js-tasks
-This repository consists of js-tasks from codewars
+Just some js-tasks from codewars
